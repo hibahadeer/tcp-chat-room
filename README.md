@@ -1,6 +1,4 @@
-# tcp-chat-room
-
-# TCP Chat Room using Python
+# TCP Chat Room 
 
 A simple, multi-client chat room application built with Python and TCP sockets.
 
