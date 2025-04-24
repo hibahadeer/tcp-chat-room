@@ -66,14 +66,3 @@ When prompted, enter a nickname. You can then begin sending and receiving messag
 - Default setup runs on `localhost (127.0.0.1)`. For use over a network, replace the IP in both server and client files with the host's actual IP address.
 
 ---
-
-## Author
-
-**Hiba Joudah**
-
----
-
-## License
-
-This project is open-source and available for learning, modification, and distribution.
-
