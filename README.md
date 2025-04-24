@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates how to create a basic chat server and client using Python's built-in `socket` and `threading` modules. Multiple users can join the server and exchange messages in real-time. Ideal for learning about network programming and socket communication.
+This project demonstrates how to create a basic chat server and client using Python's built-in `socket` and `threading` modules. Multiple users can join the server and exchange messages in real-time. 
 
 ---
 
