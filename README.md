@@ -10,15 +10,6 @@ This project demonstrates how to create a basic chat server and client using Pyt
 
 ---
 
-## Features
-
-- Real-time chat communication
-- Multi-user support via threading
-- Displays user join/leave notifications
-- Clean and minimal code structure
-
----
-
 ## Files Included
 
 - `server.py`: Handles all incoming client connections and message broadcasting
